@@ -4,7 +4,10 @@ This is a responsive static website created for a small engineering company that
 The goal of this project was to build a clean, modern, and mobile-friendly web presence that effectively showcases the services offered by the company.
 
 ## Preview
-![Website Preview](assets/preview.png)
+![Website Preview](img/preview(3).png)
+![Website Preview](img/preview(1).png)
+![Website Preview](img/preview(4).png)
+![Website Preview](img/preview(2).png)
 
 ## 🌟 Project Goals
 
