@@ -1,13 +1,14 @@
 # Engineering Company Website
 
-This is a responsive static website created for a small engineering company that specializes in pump repairs, TMM spares, and metalwork.
-The goal of this project was to build a clean, modern, and mobile-friendly web presence that effectively showcases the services offered by the company.
+A fully responsive, static website designed for a small engineering company specializing in pump repairs, TMM spares, and metalwork. The project focuses on creating a clean, professional online presence that effectively showcases the company's core services.
 
 ## Preview
-![Website Preview](img/preview(3).png)
-![Website Preview](img/preview(1).png)
-![Website Preview](img/preview(4).png)
-![Website Preview](img/preview(2).png)
+<div align="center">
+  <img src="img/preview(3).png" width="400"/>
+  <img src="img/preview(1).png" width="400"/>
+  <img src="img/preview(4).png" width="400"/>
+  <img src="img/preview(2).png" width="400"/>
+</div>
 
 ## 🌟 Project Goals
 
@@ -54,7 +55,6 @@ The website was built with the following goals in mind:
 
 - Add animations or scroll-based transitions
 - Add a mobile hamburger menu
-- Convert to a static site generator or host with GitHub Pages
 - Connect a contact form with email functionality
 
 ---
