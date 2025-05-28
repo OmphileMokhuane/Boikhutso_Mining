@@ -2,7 +2,7 @@
 
 A fully responsive, static landing page designed for a small engineering company specializing in pump repairs, TMM spares, and metalwork. The project focuses on creating a clean, professional online presence that effectively showcases the company's core services.
 ## 🔗 Live Demo
-[Visit the Live Site](https://your-live-site-url.com)
+[Visit the Live Site]([https://your-live-site-url.com](https://boikhutso-mining.vercel.app/))
 
 ## Preview Images
 <div align="center">
