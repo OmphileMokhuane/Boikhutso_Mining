@@ -1,8 +1,10 @@
 # Engineering Company Website
 
-A fully responsive, static website designed for a small engineering company specializing in pump repairs, TMM spares, and metalwork. The project focuses on creating a clean, professional online presence that effectively showcases the company's core services.
+A fully responsive, static landing page designed for a small engineering company specializing in pump repairs, TMM spares, and metalwork. The project focuses on creating a clean, professional online presence that effectively showcases the company's core services.
+## 🔗 Live Demo
+[Visit the Live Site](https://your-live-site-url.com)
 
-## Preview
+## Preview Images
 <div align="center">
   <img src="img/preview(3).png" width="400"/>
   <img src="img/preview(1).png" width="400"/>
